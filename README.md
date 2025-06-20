@@ -1,6 +1,15 @@
 # 😊 Face Emotion Recognition System
 
-A deep learning-based application that detects human emotions in real-time using a webcam feed. Built with OpenCV, Keras, TensorFlow, and Python, this project identifies facial expressions such as Happy, Sad, Angry, Surprise, Neutral, and more.
+## 📷 Sample Output
+
+<p align="center">
+  <img src="Output(Images)/angry.jpeg" alt="Angry" width="120"/>
+  <img src="Output(Images)/fear.jpeg" alt="Fear" width="120"/>
+  <img src="Output(Images)/happy.jpeg" alt="Happy" width="120"/>
+  <img src="Output(Images)/neutral.jpeg" alt="Neutral" width="120"/>
+  <img src="Output(Images)/sad.jpeg" alt="Sad" width="120"/>
+  <img src="Output(Images)/surprise.jpeg" alt="Surprise" width="120"/>
+</p>
 
 ---
 
@@ -77,12 +86,6 @@ A webcam window will open and start detecting your emotion in real-time.
 
 Open `FaceEmotionModel.ipynb` in Jupyter Notebook to train or retrain the model.  
 Ensure you have the FER2013 dataset placed in the correct directory and preprocessed.
-
----
-
-## 📷 Sample Output
-
-> *(Add screenshots here showing webcam with emotion labels)*
 
 ---
 
