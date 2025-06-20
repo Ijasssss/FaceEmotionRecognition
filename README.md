@@ -96,14 +96,3 @@ Ensure you have the FER2013 dataset placed in the correct directory and preproce
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙌 Acknowledgements
-
-* TensorFlow & Keras documentation
-* OpenCV community
-* Kaggle – FER2013 dataset
