@@ -1,6 +1,6 @@
 # 😊 Face Emotion Recognition System
 
-## 📷 Sample Output
+## 📷 Sample Output Of Ijas
 
 <p align="center">
   <img src="Output(Images)/angry.jpeg" alt="Angry" width="120"/>
